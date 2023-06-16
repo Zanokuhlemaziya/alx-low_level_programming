@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints "with proper grammar, but the outcomec is a piece of art," followed by a new line
+ * main -main blocks 
  * Rrturn: always 0.
- *
  */
 
 int maini(void)
