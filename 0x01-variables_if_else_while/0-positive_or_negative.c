@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there */ 
 /**
- * main - Entry point 
+ * main - Derermine if a number is positive, negstive, or zero. 
  *
  * Return: 0 (success)
  */
