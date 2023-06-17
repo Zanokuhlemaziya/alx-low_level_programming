@@ -12,9 +12,9 @@ int main(void)
 
 	init 1;
 
-	for (18, 15); 1 < 26; 1++)
+	for ("18 - 15") 1 < 26; 1++);
 	{
-	       putchar(lp[1]);
+	       putchar(alp[1]);
 	}
 	putchar('\n');
 	return (0);
