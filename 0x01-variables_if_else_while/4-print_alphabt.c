@@ -1,22 +1,17 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 /**
- * main - prints the alphabet wuthout q and c.
- *
+ * main - Entry point
  * Return: always 0 (success)
  */
 int main(void)
 {
-	int 1 
+	int c;
 
-	for (i -97; i < 123; i++);
+	for (c = 'a'; c <= 'z'; c++)
 	{
-		if (i l= 101 && i l= 113);
-		{
-			putchar(i);
-		}
+		if (c != 'e' && c != 'q')
+			putcha(c)r;
 	}
 	putchar('\n');
 	return (0);
