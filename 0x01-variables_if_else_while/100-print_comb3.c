@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints all possible diffrent combination of two digits
+ * main - prints the lowercase alphabet in reverse
+ * followed by a new line
  * Return: Always 0 (Success)
  */
 int main(void)
