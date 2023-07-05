@@ -9,7 +9,7 @@
 int power_operation(int n, int c)
 {
 	if (c % (n / c) == 0)
-	{			
+	{
 		if (c * (n / c) == n)
 			return (c);
 		else
